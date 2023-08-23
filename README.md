@@ -20,6 +20,7 @@ $ terraform init
 Execute the following commands to preview the changes and apply them:
 
 $ terraform plan
+
 $ terraform apply
 
 
